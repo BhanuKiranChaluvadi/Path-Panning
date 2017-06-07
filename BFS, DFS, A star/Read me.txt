@@ -1,0 +1,14 @@
+Python : 2.7.10
+Installed modules/packages: 
+numpy
+heapq
+matplotlib.pyplot
+collections
+math
+
+I have not show results of  map1 in the answers file. Since visited nodes list is very high. 
+one can output into a output fileand commands are provided.
+
+Unforutnaly naming of output results are not named as instructed.
+
+Each program has an imported(graph_search)  file which should be included whilecompiling.  
